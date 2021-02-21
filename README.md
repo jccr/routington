@@ -1,12 +1,11 @@
-## Routington
+[![npm](https://img.shields.io/npm/v/jccr/routington)](https://www.npmjs.com/package/@jccr/routington)
+[![Dependencies](https://img.shields.io/david/jccr/routington)](https://david-dm.org/jccr/routington)
+[![Node.js](https://github.com/jccr/routington/workflows/Node.js/badge.svg)](https://github.com/jccr/routington/actions?query=workflow%3ANode.js)
+[![Coverage](https://coveralls.io/repos/github/jccr/routington/badge.svg?branch=main)](https://coveralls.io/github/jccr/routington?branch=main)
 
-[![NPM version][npm-image]][npm-url]
-[![Build status][travis-image]][travis-url]
-[![Test coverage][coveralls-image]][coveralls-url]
-[![Dependency Status][david-image]][david-url]
-[![License][license-image]][license-url]
-[![Downloads][downloads-image]][downloads-url]
-[![Gittip][gittip-image]][gittip-url]
+## @jccr/routington
+
+> This is fork of the original [Routington](https://github.com/pillarjs/routington) with updated dependencies.
 
 Routington is a [trie](http://en.wikipedia.org/wiki/Trie)-based URL router.
 Its goal is only to define and match URLs.
@@ -178,7 +177,3 @@ IE9+
 [david-url]: https://david-dm.org/pillarjs/routington
 [license-image]: http://img.shields.io/npm/l/routington.svg?style=flat-square
 [license-url]: LICENSE.md
-[downloads-image]: http://img.shields.io/npm/dm/routington.svg?style=flat-square
-[downloads-url]: https://npmjs.org/package/routington
-[gittip-image]: https://img.shields.io/gittip/jonathanong.svg?style=flat-square
-[gittip-url]: https://www.gittip.com/jonathanong/

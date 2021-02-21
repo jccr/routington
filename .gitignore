@@ -1,7 +1,7 @@
-
 .DS_Store*
 *.log
 *.gz
 
 node_modules
+.nyc_output
 coverage
